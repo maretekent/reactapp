@@ -1,0 +1,24 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "A react app with tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maretekent/reactapp.git"
+  },
+  "keywords": [
+    "react",
+    "app",
+    "kent"
+  ],
+  "author": "kent marete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maretekent/reactapp/issues"
+  },
+  "homepage": "https://github.com/maretekent/reactapp#readme"
+}
